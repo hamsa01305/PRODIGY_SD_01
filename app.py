@@ -34,6 +34,5 @@ if st.button("Convert"):
     c, f, k = convert_temperature(temperature, unit)
 
     st.success("Converted Values:")
-    st.w
-st.write("Converted successfully")
+    st.write("Some text")
 
